@@ -26,7 +26,7 @@ z = 0
 w = 0
 start = int(input('START INTEGER : '))
 end = int(input('END INTEGER : '))
-speed = int(input('SPEED INTEGER :'))
+speed = int(input('SPEED INTEGER : '))
 outp = str(input('INSERT OUTPUT FILE NAME .txt : '))
 cl.clear()
 
