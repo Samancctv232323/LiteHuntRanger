@@ -18,7 +18,7 @@ cl.clear()
 cl.print(f"Loaded Rich Wallet Address ...")
 
 filename = 'ltc500.txt'
-with open(filename) as f:
+with open(ltc500.txt) as f:
     add = f.read().split()
 add = set(add)
 
@@ -27,7 +27,7 @@ w = 0
 start = int(input('START INTEGER : '))
 end = int(input('END INTEGER : '))
 speed = int(input('SPEED INTEGER :'))
-outp = str(input('INSERT OUTPUT FILE NAME .txt : '))
+outp = str(input('INSERT OUTPUT ltc500 .txt : '))
 cl.clear()
 
 cl.print(f"""
